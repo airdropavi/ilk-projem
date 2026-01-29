@@ -1,0 +1,4 @@
+git add src/login.js README.md
+git commit -m "docs: README'ye kurulum talimatları eklendi"
+git push
+ 
